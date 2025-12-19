@@ -1,4 +1,4 @@
-# Java Demo Project
+# demo-java
 
 This is a demo Java Gradle project.
 
