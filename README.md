@@ -1,6 +1,6 @@
 # Java Demo Project
 
-This is a simple Java Gradle project.
+This is a demo Java Gradle project.
 
 ## Created Files
 
